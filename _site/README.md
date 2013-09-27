@@ -1,4 +1,0 @@
-dinosaurs
-=========
-
-ABOUT DINOSAURSSSSSS. RAWRRRRR.
