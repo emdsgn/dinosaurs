@@ -6,7 +6,7 @@ discoverer: Othniel Charles Marsh
 period: Late Jurassic
 thumb: stegosaurus.jpg
 description: The Stegosaurus is best known for the large plates on its back and long spikes on its tail
-category: Herbivore
+category: herbivore
 source: http://en.wikipedia.org/wiki/Stegasaurus
 ---
 
