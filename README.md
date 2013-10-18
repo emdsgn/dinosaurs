@@ -1,4 +1,3 @@
-dinosaurs
-=========
+# Dinosaurs
 
-ABOUT DINOSAURSSSSSS. RAWRRRRR.
+A website listing popular dinosaurs.
